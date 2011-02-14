@@ -4,15 +4,15 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>XtremelySocial Server Monitor</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		Display numerous stats from your web server, including uptime, memory, disk, and swap usage, apache processes, and mysql stats.
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://timnicholson.github.com"
+		email="tim@xtremelysocial.com">
+		Tim Nicholson
 	</author>
 
 	<gap:platforms>
